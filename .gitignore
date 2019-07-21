@@ -1,4 +1,0 @@
-*.pyc
-.DS_Store
-config_secrets.py
-data.db
